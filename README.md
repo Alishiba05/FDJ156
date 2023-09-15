@@ -1,2 +1,2 @@
 # FDJ156
-Project
+DemoProject
